@@ -1,2 +1,3 @@
 clase  12-04-24
 repaso de la clase pasada
+probando los reset
